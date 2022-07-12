@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="mailto:liacicati@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=LiaCicati.LiaCicati)
+### Happy to meet you! &nbsp; 
 
 I'm a Software Technology Engineering student with a passion for Web Development, and I'm excited to use my skills and interests to develop valuable software solutions!
 
