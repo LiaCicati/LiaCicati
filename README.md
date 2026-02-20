@@ -20,8 +20,5 @@ Here are some ideas to get you started:
 
 ### Happy to meet you! &nbsp; 
 
-I'm a Software Technology Engineering student with a passion for Web Development, and I'm excited to use my skills and interests to develop valuable software solutions!
+I'm a Software Engineer with a passion for Web Development, and I'm excited to use my skills and interests to develop valuable software solutions!
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=LiaCicati&hide=stars,issues&show_icons=true&theme=react&hide_title=true)](https://github.com/LiaCicati/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiaCicati&layout=compact)](https://github.com/LiaCicati/github-readme-stats)
